@@ -1,0 +1,20 @@
+[
+    {
+        "productName": "Catan",
+        "productDescription": "Catan is a strategy game where players collect resources and use them to build roads, settlements and cities on their way to victory. The board itself is variable, making each game a little different from the next.",
+        "imageURL": "../images/catan.jpg",
+        "stockQuantity": 20
+    },
+    {
+        "productName": "Chess",
+        "productDescription": "Chess is a board game for two players. It is played in a square board, made of 64 smaller squares, with eight squares on each side.",
+        "imageURL": "../images/chess.jpg",
+        "stockQuantity": 16
+    },
+    {
+        "productName": "Scrable",
+        "productDescription": "Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares.",
+        "imageURL": "../images/scrable.jpg",
+        "stockQuantity": 18
+    }
+]

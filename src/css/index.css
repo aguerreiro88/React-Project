@@ -1,0 +1,14 @@
+/**  Basic Page CSS **/
+body {
+  font-weight: 200;
+  background-color: #ffffff;
+}
+
+header a,
+footer a {
+  color: blue;
+}
+
+footer {
+  font-size: 0.8em;
+}
